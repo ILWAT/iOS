@@ -19,3 +19,26 @@
 + **Alamofire**
 + **화면 연동**
 + **기능 응용**
+
+
+### 📱 실습 캡처
+## Catstagram
+
++ **로그인**
+<img src="https://user-images.githubusercontent.com/87518434/178321236-b7bc3184-4758-406d-9c90-bfb65f5f8596.png" width="40%" height="40%"/>
+
++ **회원가입**
+<img src="https://user-images.githubusercontent.com/87518434/178322414-92c1b191-1796-4682-b6af-b1447af063fb.png" width="40%" height="40%"/>
+
++ **메인**
+<img src="https://user-images.githubusercontent.com/87518434/178322400-d163603f-a7b3-4adb-8b40-e57ecfda346c.png" width="40%" height="40%"/>
+
++ **릴스**
+<img src="https://user-images.githubusercontent.com/87518434/178322373-835516cc-a91d-4b3f-8e7b-a61ce28c100f.png" width="40%" height="40%"/>
+
++ **프로필**
+<img src="https://user-images.githubusercontent.com/87518434/178321970-790b0eea-379f-4575-996c-4354929014c7.png" width="40%" height="40%"/>
+
+
+
+
